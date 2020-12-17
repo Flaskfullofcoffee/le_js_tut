@@ -1,0 +1,23 @@
+{
+  "name": "le_js_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaskfullofcoffee/le_js_tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flaskfullofcoffee/le_js_tut/issues"
+  },
+  "homepage": "https://github.com/Flaskfullofcoffee/le_js_tut#readme"
+}
